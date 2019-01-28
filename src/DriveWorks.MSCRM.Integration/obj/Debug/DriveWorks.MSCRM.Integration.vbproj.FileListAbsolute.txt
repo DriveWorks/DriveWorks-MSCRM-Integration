@@ -1,0 +1,12 @@
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\bin\DriveWorks.MSCRM.Integration.dll.config
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\bin\DriveWorks.MSCRM.Integration.dll
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\bin\DriveWorks.MSCRM.Integration.pdb
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\bin\DriveWorks.MSCRM.Integration.xml
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\src\DriveWorks.MSCRM.Integration\obj\Debug\DriveWorks.MSCRM.Integration.Resources.resources
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\src\DriveWorks.MSCRM.Integration\obj\Debug\DriveWorks.MSCRM.Integration.PlugInSettingsForm.resources
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\src\DriveWorks.MSCRM.Integration\obj\Debug\DriveWorks.MSCRM.Integration.vbproj.GenerateResource.cache
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\src\DriveWorks.MSCRM.Integration\obj\Debug\DriveWorks.MSCRM.Integration.vbproj.CoreCompileInputs.cache
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\src\DriveWorks.MSCRM.Integration\obj\Debug\DriveWorks.MSCRM.Integration.vbproj.CopyComplete
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\src\DriveWorks.MSCRM.Integration\obj\Debug\DriveWorks.MSCRM.Integration.dll
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\src\DriveWorks.MSCRM.Integration\obj\Debug\DriveWorks.MSCRM.Integration.xml
+K:\SoftwareDev\PublicGitHub\driveworks-mscrm-integration\src\DriveWorks.MSCRM.Integration\obj\Debug\DriveWorks.MSCRM.Integration.pdb
