@@ -1,4 +1,4 @@
-## DriveWorks Microsoft Dynamics 365 Integration Plugin.
+## DriveWorks Microsoft Dynamics 365 Integration Plugin
 
 This source code has been made available to provide DriveWorks users with a plugin with which to build an integration between Microsoft Dynamics CRM and DriveWorks.
 
@@ -9,7 +9,7 @@ This plugin requires the DriveWorks 16 SDK or higher.
 
 This plugin also has dependencies to the Microsoft CRM SDK. You should use the NuGet package manager to restore any references to this SDK.
 
-### Building and Installation.
+### Building and Installation
 
 1. Clone the repository into your local environment. 
 2. Open in Visual Studio.
