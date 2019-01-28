@@ -22,7 +22,7 @@ This plugin also has dependencies to the Microsoft CRM SDK. You should use the N
 
 ### Functionality
 
-The plugin comes with 21 functions which pull data and 2 Specification Tasks which post data to Dynamics CRM.
+The plugin comes with 13 functions which pull data and 2 Specification Tasks which post data to Dynamics CRM.
 
 Each Function and Specification Task comes with a full description available to view when building rules within DriveWorks, as well as commented public methods inside the source code. 
 
